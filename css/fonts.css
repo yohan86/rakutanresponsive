@@ -1,0 +1,32 @@
+@font-face {
+    font-family:'Helvetica Condensed Bold';
+    src: url('../fonts/Helvetica_Condensed_Bold/4834c70d-196c-47f6-bfd5-11e5d2e2f65c.eot') format('eot'),
+         url('../fonts/Helvetica_Condensed_Bold/c3e64e07-d679-43dc-982a-6d21239f752e.woff') format('woff'),
+         url('../fonts/Helvetica_Condensed_Bold/cc8baf39-7363-4096-9272-744ba5d42550.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family:'Brush Script';
+    src: url('../fonts/Brush_Script/e32f5f9f-a354-41d3-be1f-f67d4b01c639.eot') format('eot'),
+         url('../fonts/Brush_Script/be274c66-a62f-45df-b0c4-3ff8d5a2443c.woff') format('woff'),
+         url('../fonts/Brush_Script/b56d5460-313d-49cc-a25a-e5256d7233e2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'proxima_novasemibold';
+    src: url('../fonts/proximanova_semibold/proximanova-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/proximanova_semibold/proximanova-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'painted_paradiseregular';
+    src: url('../fonts/painted_paradiseregular/painted_paradise_-_demo-webfont.woff2') format('woff2'),
+         url('../fonts/painted_paradiseregular/painted_paradise_-_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

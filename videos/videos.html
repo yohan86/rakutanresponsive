@@ -1,0 +1,44 @@
+<html>
+<head>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<style>
+.videoitem{
+	width:375px;
+	height:812px;
+	position:relative;
+	background:#333;
+	margin:10px;
+	overflow:hidden;
+}
+video{
+	width:375px;
+	height:812px;
+}
+</style>
+<script>
+  jQuery(window).scroll(function(){
+		$('#asa').text(window.innerHeight);
+	});
+</script>
+
+	
+</head>
+<body>
+	<div class="videoitem">
+
+		 <video  autoplay="autoplay">
+		  <source src="03_ShakeShake_375x812.mp4" type="video/mp4">
+		</video> 
+	</div>
+	<div class="videoitem">
+		
+		<video  autoplay="autoplay">
+		  <source src="04_SoftHands_375x812_blur.mp4" type="video/mp4">
+		</video> 
+	</div>
+	<div class="videoitem">
+		<video  src="04_SoftHands.mp4" autoplay="autoplay"></video>
+	</div>
+	<div id="asa">aaaaaaaaaaaaaaa</div>
+</body>
+</html>
